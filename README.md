@@ -1,10 +1,6 @@
 # Hi, I'm Amanjot 👋
 
-> Finance student building practical skills in financial analysis, modeling, and data-driven decision making.
-
-[![Email](https://img.shields.io/badge/-amanjotcheema3387@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:amanjot@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
-[![Website](https://img.shields.io/badge/website-portfolio-blue?style=flat&logo=google-chrome)](#)
+ Finance student building practical skills in financial analysis, modeling, and data-driven decision making.
 
 ---
 
