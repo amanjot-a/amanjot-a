@@ -1,7 +1,9 @@
 # Hi, I'm Amanjot 👋
 
  Finance student building practical skills in financial analysis, modeling, and data-driven decision making.
-
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman2004) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanjotcheema3387@gmail.com) 
 ---
 
 ## About me
