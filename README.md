@@ -39,27 +39,6 @@ Think *finance first, tech enabled*.
 
 ---
 
-## 🚀 Projects (AI-Assisted)
-
-**FinTrack AI**  
-Personal finance dashboard where I defined cash-flow logic and used AI to generate the application.  
-*Goal:* move beyond static Excel sheets and think in systems.
-
-**Crypto Trading Platform UI**  
-Trader-first interface concept focused on clarity and usability.  
-*Goal:* understand how financial data should be presented.
-
----
-
-## 📊 GitHub Activity
-> Stats reflect **AI-assisted experiments and learning projects**, not traditional software engineering.
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanjot-a&show_icons=true&theme=minimal&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanjot-a&layout=compact&theme=minimal&hide_border=true" height="150"/>
-</p>
-
----
 
 ## 📫 Connect
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-aman2004-0A66C2?style=flat&logo=linkedin&logoColor=white)
