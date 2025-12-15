@@ -10,35 +10,6 @@ Think *finance first, tech enabled*.
 
 ---
 
-## 🧠 Areas of Interest
-- Financial Modeling & Valuation  
-- Quantitative Methods  
-- Personal Finance & Investment Analysis  
-- Fintech product thinking  
-- AI-assisted workflows in finance  
-
----
-
-## 🧰 Skills & Tools
-
-### 💰 Finance & Analytics
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-444444?style=flat)
-![Valuation](https://img.shields.io/badge/Valuation-444444?style=flat)
-![Quantitative Methods](https://img.shields.io/badge/Quantitative_Methods-444444?style=flat)
-
-### 🤖 AI-Assisted Building
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-444444?style=flat)
-![Rapid Prototyping](https://img.shields.io/badge/Rapid_Prototyping-444444?style=flat)
-
-### 🎨 Design & Visualization
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-444444?style=flat)
-
----
-
 
 ## 📫 Connect
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-aman2004-0A66C2?style=flat&logo=linkedin&logoColor=white)
